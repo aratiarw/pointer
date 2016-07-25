@@ -1,0 +1,2 @@
+# pointer
+Tugas Algorima Pointer
